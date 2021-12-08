@@ -1,0 +1,16 @@
+print("Calculadora")
+
+n1 = float(input('N1: '))
+n2 = float(input('N2: '))
+
+soma = n1 + n2
+print("Soma: " + str(soma))
+
+menos = n1 - n2
+print("Menos: " + str(menos))
+
+v = n1 * n2
+print("Vezes: " + str(v))
+
+d = n1 / n2
+print("Dividir: " + str(d))
